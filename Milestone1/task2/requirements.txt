@@ -1,0 +1,8 @@
+streamlit==1.38.0
+langchain==0.2.16
+langchain-community==0.2.16
+pypdf==4.3.1
+docx2txt==0.8
+unstructured==0.15.13
+beautifulsoup4==4.12.3
+lxml==5.3.0
