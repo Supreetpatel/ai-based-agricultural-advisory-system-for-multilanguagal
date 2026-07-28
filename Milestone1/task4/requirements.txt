@@ -1,0 +1,11 @@
+pinecone
+sentence-transformers
+langchain-text-splitters
+python-docx
+pypdf
+pandas
+openpyxl
+python-dotenv
+torch
+transformers
+markdown
